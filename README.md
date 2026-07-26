@@ -58,405 +58,59 @@ goal:
 
 ---
 
-# 🚀 What I Build
+## 🚀 What can I Do
 
+### Backend Development
+- REST API development
+- Database design
+- Authentication & security
+- Clean Architecture
+- Enterprise application development
 
-<table>
-<tr>
+### Desktop Development
+- Windows applications
+- Cross-platform software
+- Rust + Tauri & Qt C++ applications
+- Performance-focused systems
 
-<td width="50%">
-
-
-### ⚙️ Backend Systems
-
-- RESTful APIs
-- Authentication Systems
-- Database Architecture
-- Secure API Design
-- Enterprise Applications
-
-
-</td>
-
-<td width="50%">
-
-
-### 🖥️ Desktop Applications
-
-- Cross-platform Apps
-- Native Performance
-- Rust + Tauri Applications
-- Windows Software
-
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-
-### 🌐 Web Applications
-
-- Modern React Interfaces
-- Next.js Applications
-- Responsive UI Systems
-- Full-stack Applications
-
-
-</td>
-
-
-<td width="50%">
-
-
-### 🧠 Engineering
-
-- Clean Code
-- Design Patterns
-- System Architecture
-- Problem Solving
-
-
-</td>
-
-</tr>
-
-</table>
-
-
+### Web Development
+- React applications
+- Next.js projects
+- Modern UI systems
+- Full-stack solutions
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Building reliable software with modern technologies
 
+### Languages
 
-## 💻 Programming Languages
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,ts,js&perline=6"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,typescript,javascript"/>
 </p>
 
+### Frontend
 
-
-## 🌐 Frontend Development
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&perline=6"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 </p>
 
+### Backend
 
-
-## ⚙️ Backend Development
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&perline=6"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
 </p>
 
+### Database & Tools
 
-### Backend Knowledge
-
-```
-ASP.NET Core
-REST API
-Entity Framework Core
-JWT Authentication
-Clean Architecture
-Dependency Injection
-Middleware
-API Security
-```
-
-
----
-
-## 🗄️ Database
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&perline=6"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,docker,git,github,linux"/>
 </p>
 
-
-
 ---
-
-## 🖥️ Desktop Development
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tauri,rust,qt&perline=6"/>
-
-</p>
-
-
-
----
-
-## ☁️ Cloud & DevOps
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,azure,vercel,linux&perline=6"/>
-
-</p>
-
-
-
----
-
-## 🔧 Tools
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&perline=6"/>
-
-</p>
-
-
----
-
-# 📚 Currently Learning
-
-
-<table>
-
-<tr>
-<td>🏗️</td>
-<td>Clean Architecture</td>
-</tr>
-
-
-<tr>
-<td>🏛️</td>
-<td>System Design</td>
-</tr>
-
-
-<tr>
-<td>🎨</td>
-<td>Design Patterns</td>
-</tr>
-
-
-<tr>
-<td>🔐</td>
-<td>Secure API Development</td>
-</tr>
-
-
-<tr>
-<td>⚡</td>
-<td>Performance Optimization</td>
-</tr>
-
-
-<tr>
-<td>☁️</td>
-<td>Cloud Infrastructure</td>
-</tr>
-
-
-</table>
-
-
----
-
-# 🎯 Current Focus
-
-
-```
-Backend Engineering
-        ↓
-ASP.NET Core APIs
-        ↓
-Database Design
-        ↓
-Clean Architecture
-        ↓
-Scalable Software Systems
-```
-
-
----
-
-# ⭐ Featured Projects
-
-
-## 🚀 Ornex Platform
-
-> Building modern software solutions with scalable architecture.
-
-**Technologies**
-
-```
-ASP.NET Core
-React
-Next.js
-PostgreSQL
-Docker
-Azure
-```
-
-
----
-
-
-## 🖥️ Desktop Studio
-
-> Cross-platform desktop applications powered by modern technologies.
-
-
-**Technologies**
-
-```
-Rust
-Tauri
-React
-TypeScript
-```
-
-
----
-
-
-## ⚡ Developer Tools
-
-> Creating productivity tools for developers.
-
-
-**Technologies**
-
-```
-Rust
-C++
-Python
-```
-
----
-
-# 📊 GitHub Analytics
-
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsfromakash&show_icons=true&theme=github_dark_dimmed&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.demolab.com?user=itsfromakash&theme=github-dark&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsfromakash&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
-
-</p>
-
-
-
----
-
-# 📈 Contribution Graph
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsfromakash&theme=github-dark&hide_border=true"/>
-
-</p>
-
-
-
----
-
-# 🐍 Contribution Snake
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-
-
----
-
-# 🏆 GitHub Achievements
-
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsfromakash&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
-
----
-
-# 💡 Developer Mindset
-
-
-> "Great software is not created by writing more code.
-> It is created by solving problems with better ideas."
-
-
----
-
-# 📫 Connect With Me
-
-
-<p align="center">
-
-
-<a href="mailto:ornex2008@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-
-<a href="https://github.com/itsfromakash">
-
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-</p>
-
-
----
-
-<div align="center">
-
-
-### ⭐ Always Learning  
-### 🚀 Always Building  
-### 💻 Always Improving
 
 
 <br>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
-
 
 </div>
