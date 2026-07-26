@@ -85,7 +85,7 @@ goal:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,typescript,javascript"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,typescript,javascript,go"/>
 </p>
 
 ### Frontend
@@ -103,7 +103,7 @@ goal:
 ### Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,docker,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=vscode,qt,docker,postman,git,github,postgres,mongodb,sqlite,linux,"/>
 </p>
 
 ---
