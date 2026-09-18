@@ -1,116 +1,120 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Akash%20Dhananjaya&fontSize=70&fontAlignY=38&animation=twinkling&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer%20%7C%20Desktop%20Developer&descAlignY=60"/>
-</p>
+<div align="center">
 
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=ASP.NET+Core+Backend+Developer;React+%2B+Next.js+Developer;Desktop+Application+Developer;Rust+%26+Tauri+Enthusiast;Building+Reliable+Software+%F0%9F%9A%80"/>
-
-</p>
-
-
-<p align="center">
-
-<a href="https://github.com/itsfromakash">
-<img src="https://img.shields.io/badge/GitHub-itsfromakash-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:ornex2008@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=itsfromakash&style=for-the-badge&color=blue"/>
-
-</p>
-
-
----
-
-# 👨‍💻 About Me
-
-
-```yaml
-name: Akash Dhananjaya
-
-role:
-  - Software Engineering Student
-  - Backend Developer
-  - Desktop Application Developer
-
-passion:
-  - Building scalable software
-  - System design
-  - Clean architecture
-  - Developer tools
-
-currently:
-  learning:
-    - Advanced Backend Engineering
-    - Software Architecture
-    - Cloud Technologies
-    - Performance Optimization
-
-goal:
-  - Create reliable products used by people worldwide
+```
+██╗████████╗███████╗███████╗██████╗  ██████╗ ███╗   ███╗ █████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗
+██║╚══██╔══╝██╔════╝██╔════╝██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║
+██║   ██║   ███████╗█████╗  ██████╔╝██║   ██║██╔████╔██║███████║█████╔╝ ███████║███████╗███████║
+██║   ██║   ╚════██║██╔══╝  ██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║██╔═██╗ ██╔══██║╚════██║██╔══██║
+██║   ██║   ███████║██║     ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██╗██║  ██║███████║██║  ██║
+╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+                                                                                                
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00FF9C&background=0F0F0F00&center=true&vCenter=true&width=800&lines=%3E+whoami%3A+Akash+Dhananjaya;%3E+role%3A+Systems+Software+Engineer;%3E+writing+code+close+to+the+metal;%3E+status%3A+always_compiling"/>
 
----
+</div>
 
-## 🚀 What can I Do
+<pre align="center">
+╔══════════════════════════════════════════════════════════╗
+║   github.com/itsfromakash   ·   ornex2008@gmail.com       ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
 
-### Backend Development
-- REST API development
-- Database design
-- Authentication & security
-- Clean Architecture
-- Enterprise application development
-
-### Desktop Development
-- Windows applications
-- Cross-platform software
-- Rust + Tauri & Qt C++ applications
-- Performance-focused systems
-
-### Web Development
-- React applications
-- Next.js projects
-- Modern UI systems
-- Full-stack solutions
----
-
-## 🛠️ Building reliable software with modern technologies
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,typescript,javascript,go"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=itsfromakash&style=flat-square&color=00ff9c&label=profile+visits"/>
 </p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
-</p>
-
-### Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,qt,docker,postman,git,github,postgres,mongodb,sqlite,linux,"/>
-</p>
-
----
-
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
+```
+   ┌─[ whoami ]────────────────────────────────────────────┐
+   │                                                       │
+   │   >  name       : Akash Dhananjaya                    │
+   │   >  role       : Systems Software Engineer           │
+   │   >  focus      : Low-level & native development      │
+   │   >  languages  : C · C++ · NASM · Rust · Go · C#     │
+   │   >  ui-layer   : .NET + Avalonia (cross-platform)    │
+   │   >  learning   : OS internals · compilers · perf     │
+   │   >  motto      : "close to the metal, far from bugs" │
+   │                                                       │
+   └───────────────────────────────────────────────────────┘
+```
+
+<br>
+
+```
+   ┌─[ stack.h ]───────────────────────────────────────────┐
+   │                                                         
+   │   #include <low_level.h>       →  C / C++               
+   │   #include <fearless.rs>       →  Rust                   
+   │   #include <concurrency.go>    →  Go                     
+   │   #include <native_asm.s>      →  x86 Assembly (NASM)    
+   │   #include <desktop.cs>        →  C# / .NET + Avalonia   
+   │                                                         
+   └─────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,go,cs,dotnet"/>
+</p>
+
+<br>
+
+```
+   ┌─[ currently.log ]────────────────────────────────────────┐
+   │                                                          
+   │   [ok]  studying operating system internals              
+   │   [ok]  writing small NASM routines for fun               
+   │   [ok]  learning systems programming           
+   │   [..]  exploring compiler & memory management concepts                  
+   │   [..]  building desktop tools with Avalonia UI     
+   │                                                          
+   └──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+```
+   ┌─[ toolbox ]────────────────────────────────────────────┐
+   │                                                         
+   │   editor    : VS Code                                  
+   │   os        : Linux / Windows                           
+   │   vcs       : Git + GitHub                               
+   │   container : Docker                                     
+   │                                                         
+   └────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,vscode,git,github,docker"/>
+</p>
+
+<br>
+
+<div align="center">
+
+```
+   ┌─────────────────────────────────────────┐
+   │   thanks for stopping by my terminal ~   │
+   └─────────────────────────────────────────┘
+```
+
+</div>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=itsfromakash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f0f0f&title_color=00ff9c&icon_color=00ff9c&text_color=888888"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsfromakash&theme=github-dark-blue&hide_border=true&background=0f0f0f&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c"/>
+</p>
+
+<div align="center">
+
+```
+  ─────────────────────────────────────────────────────────
+       [ EOF ]  ·  compiled with care  ·  Akash Dhananjaya
+  ─────────────────────────────────────────────────────────
+```
 
 </div>
