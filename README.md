@@ -83,7 +83,7 @@ akash@systems:~$
 akash@systems:~$ cat contact.txt
 
 github  : github.com/itsfromakash
-mail    : itsformakash@gmail.com
+mail    : akashdhananjaya2@gmail.com
 
 akash@systems:~$ 
 ```
